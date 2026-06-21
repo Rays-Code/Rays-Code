@@ -16,7 +16,7 @@
 
 🌱 Deepening expertise in **Scalable Backend Systems, and Cloud Architecture**
 
-💬 Open to Full Stack Developer roles — reach out [here](https://linkedin.com/in/dipraj-ray)
+💬 Open to Full Stack Developer roles — reach out [here](https://www.linkedin.com/in/dipraj-ray-a75577307/)
 
 </div>
 
@@ -24,7 +24,7 @@
 <a href="mailto:raydipraj1234@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
-<a href="https://linkedin.com/in/dipraj-ray" target="_blank">
+<a href="https://www.linkedin.com/in/dipraj-ray-a75577307/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Rays-Code" target="_blank">
