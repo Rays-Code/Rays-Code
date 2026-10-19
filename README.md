@@ -23,7 +23,7 @@ Building production-ready web applications, scalable APIs, and reliable systems.
   <a href="https://www.linkedin.com/in/dipraj-ray">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://diprajray.com">
+  <a href="https://diprajray.site">
     <img src="https://img.shields.io/badge/Portfolio-9196FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/Rays-Code">
